@@ -1,3 +1,3 @@
-module github.com/alexmaze/gomodtest.v7/v7
+module github.com/alexmaze/gomodtest
 
 go 1.15
